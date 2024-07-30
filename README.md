@@ -1,1 +1,1 @@
-This program is designed for api integration. Updated.
+This program is designed for api integration
